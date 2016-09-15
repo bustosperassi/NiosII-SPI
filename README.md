@@ -28,3 +28,5 @@ Se cuenta con un modulo JTAG_UART para poder debuggear las intruciones que se qu
 Abrir una terminal en el mismo directorio y ejecurar los siguientes comandos:
 ######	$ sudo chmod +X script.sh 
 ######	$ ./script.sh
+
+![alt tag](https://raw.githubusercontent.com/bustosperassi/niosii-spi/master/capturas/logoLCD.jpg)
