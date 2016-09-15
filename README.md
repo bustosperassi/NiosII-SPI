@@ -26,5 +26,5 @@ Se cuenta con un modulo JTAG_UART para poder debuggear las intruciones que se qu
 
 ##Ejecucion 
 Abrir una terminal en el mismo directorio y ejecurar los siguientes comandos:
-	$ sudo chmod +X script.sh 
+	$ sudo chmod +X script.sh </n>
 	$ ./script.sh
